@@ -1,0 +1,3 @@
+Line 4: Incorrect field count
+Line 5: Invalid route or amount
+Line 6: Empty record
